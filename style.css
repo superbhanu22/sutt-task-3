@@ -81,4 +81,6 @@ body{
     .bar_1{
         margin-top: -17%;
     }
+    .all{
+    transform: scale(2);
 }
