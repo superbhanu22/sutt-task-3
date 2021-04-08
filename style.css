@@ -48,6 +48,7 @@ body{
     background-color: black;
     margin: -16.6% 0 0 49.2%;
 }
+
 .bar_1{
     height: 3vw;
     width: 1vw;
@@ -72,4 +73,10 @@ body{
     width: 3vw;
     background-color: green;
     margin: -16.07% 0 0 34%;
+}
+@media(max-width:500px){
+    .dot{
+    margin:16.8% 0 0 49.2%;
+    }
+
 }
